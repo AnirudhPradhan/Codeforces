@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Coding(2)\\Codeforces\\A. Coins.cpp","tests":[{"id":1730620294115,"input":"4\n5 3\n6 1\n7 4\n8 8","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding(2)\\Codeforces\\A. Coins.cpp","group":"local","local":true}
